@@ -15,5 +15,4 @@ spec:
       protocol: TCP
       name: http
   selector:
-    app: {{ .Release.Name }} # release ラベルのセレクターを削除
-    # release: {{ .Release.Name }} # この行を削除またはコメントアウト
+    app: {{ .Release.Name }}
