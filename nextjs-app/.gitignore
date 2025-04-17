@@ -58,9 +58,6 @@ next-env.d.ts
 jest-cache/
 jest.config.js
 
-# Helm/Kubernetes
-charts/**/values.yaml
-charts/**/values-*.yaml
 
 # Skaffold
 skaffold.log

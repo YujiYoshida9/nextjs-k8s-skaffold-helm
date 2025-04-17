@@ -1,0 +1,9 @@
+
+image:
+  repository: placeholder-repo
+  tag: latest
+  pullPolicy: Never
+
+service:
+  type: ClusterIP
+  port: 3000
