@@ -1,0 +1,21 @@
+# Exclude local dependencies (will be reinstalled in build)
+node_modules
+
+# Exclude Next.js build artifacts and cache
+.next
+out
+
+# Exclude Git metadata
+.git
+.gitignore
+
+# Exclude documentation and license files
+README*
+LICENSE*
+
+# Exclude log files
+*.log
+
+# Optionally exclude Docker build files themselves
+Dockerfile*
+.dockerignore
