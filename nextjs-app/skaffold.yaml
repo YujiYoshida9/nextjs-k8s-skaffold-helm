@@ -93,4 +93,4 @@ profiles:
               - charts/app/values-prod.yaml
             setValues:
               image.repository: nextjs-prod
-              image.pullPolicy: Never # 本番デプロイ時は Always などに変更
+              image.pullPolicy: Never 
