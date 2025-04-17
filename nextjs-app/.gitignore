@@ -59,5 +59,7 @@ jest-cache/
 jest.config.js
 
 
+# - values.yaml and values-*.yaml may contain sensitive information (e.g., passwords, API keys).
+
 # Skaffold
 skaffold.log

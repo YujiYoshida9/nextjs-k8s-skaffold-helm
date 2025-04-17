@@ -1,4 +1,4 @@
-
+# - The value 'placeholder-repo' is a sample. Please replace it with your actual image repository for production use.
 image:
   repository: placeholder-repo
   tag: latest
